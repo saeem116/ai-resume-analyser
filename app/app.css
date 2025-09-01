@@ -192,3 +192,11 @@ form {
         opacity: 1;
     }
 }
+
+dialog {
+    background: transparent;
+    border: none;
+    box-shadow: none;
+    outline: none;
+    display: none;
+}
