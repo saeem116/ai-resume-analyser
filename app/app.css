@@ -198,5 +198,5 @@ dialog {
     border: none;
     box-shadow: none;
     outline: none;
-    display: none;
+    display: none !important;
 }
