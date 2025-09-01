@@ -5,7 +5,7 @@ const Navbar = () => {
         <nav
             className="navbar relative bg-white/20 backdrop-blur-lg backdrop-saturate-150 border border-white/80 rounded-3xl shadow-lg shadow-white/30">
             <Link to="/">
-                <p className="text-2xl font-bold text-gradient">RESUMIND</p>
+                <p className="text-2xl font-bold text-gradient">HS HireSense</p>
             </Link>
 
             <Link to="/upload" className="relative px-6 py-3 rounded-full
